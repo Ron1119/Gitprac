@@ -1,3 +1,4 @@
 I create a new file
 Test Remote repo 
 To test the Github
+Test the merge of local 
